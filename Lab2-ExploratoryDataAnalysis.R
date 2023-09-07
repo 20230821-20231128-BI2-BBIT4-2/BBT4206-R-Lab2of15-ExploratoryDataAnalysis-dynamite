@@ -152,7 +152,7 @@ sapply(iris_dataset, class)
 sapply(PimaIndiansDiabetes, class)
 
 # Descriptive Statistics ----
-
+# changes
 # You must first understand your data before you can use it to design
 # prediction models and to make generalizable inferences. It is not until you
 # take the time to truly understand your dataset that you can fully comprehend
