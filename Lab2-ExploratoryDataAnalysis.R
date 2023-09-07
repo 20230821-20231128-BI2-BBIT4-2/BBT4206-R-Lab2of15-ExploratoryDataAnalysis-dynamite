@@ -11,7 +11,7 @@
 # Note: The lecture contains both theory and practice. This file forms part of
 #       the practice. It has required lab work submissions that are graded for
 #       coursework marks.
-#
+#test
 # License: GNU GPL-3.0-or-later
 # See LICENSE file for licensing information.
 # *****************************************************************************
@@ -61,7 +61,7 @@ renv::init()
 
 # You can also clean up a project by removing unused packages using the
 # following command: renv::clean()
-  
+### Joy Cheptoo Mutai
 # After you have confirmed that your code works as expected, use
 # renv::snapshot() to record the packages and their
 # sources in the lockfile.
@@ -124,7 +124,7 @@ if (!is.element("mlbench", installed.packages()[, 1])) {
   install.packages("mlbench", dependencies = TRUE)
 }
 require("mlbench")
-
+sJoy
 data("PimaIndiansDiabetes")
 data("BostonHousing")
 
