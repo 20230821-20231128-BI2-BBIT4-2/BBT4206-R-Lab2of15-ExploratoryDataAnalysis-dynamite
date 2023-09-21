@@ -22,7 +22,7 @@
 # projects. This is helpful when working in teams because it makes your R
 # projects more isolated, portable and reproducible.
 
-# Further reading:
+# Further reading: 
 #   Summary: https://rstudio.github.io/renv/
 #   More detailed article: https://rstudio.github.io/renv/articles/renv.html
 
@@ -155,13 +155,14 @@ sapply(iris_dataset, class)
 sapply(PimaIndiansDiabetes, class)
 
 # Descriptive Statistics ----
+# changes
 
 # You must first understand your data before you can use it to design
 # prediction models and to make generalizable inferences. It is not until you
 # take the time to truly understand your dataset that you can fully comprehend
 # the context of the results you achieve. This understanding can be done using
 # descriptive statistics such as:
-
+SHJOUWI
 # 1. Measures of frequency
 # (e.g., count, percent)
 
