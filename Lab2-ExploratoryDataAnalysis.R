@@ -158,7 +158,7 @@ sapply(PimaIndiansDiabetes, class)
 # take the time to truly understand your dataset that you can fully comprehend
 # the context of the results you achieve. This understanding can be done using
 # descriptive statistics such as:
-
+SHJOUWI
 # 1. Measures of frequency
 # (e.g., count, percent)
 
